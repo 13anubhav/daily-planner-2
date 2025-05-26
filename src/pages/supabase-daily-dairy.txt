@@ -1,0 +1,18 @@
+
+
+API Key --> anon public
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR5ZHVsenV1bGdpbm1tcXRjaG9nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg4MjM5MzMsImV4cCI6MjA1NDM5OTkzM30.CdAlLtYw1UCzMPfSdSSCEvftXSJeztaFdA4AdaMB550
+
+
+Project Url
+https://tydulzuulginmmqtchog.supabase.co
+
+
+
+Google
+Client ID
+85430277346-ov4grn3ja005ufnmo6v3ngmeo47m6ioi.apps.googleusercontent.com
+
+Client secret
+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
